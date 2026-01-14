@@ -14,8 +14,7 @@
 
 <hr/>
 
-<table>
-  <tr>
+
     <td width="100%" valign="top">
 
 ### 👩‍💻 About
@@ -34,9 +33,7 @@ I focus on engineering that ships, stays stable, and is easy to maintain. ✅
 - 🔎 Observability (logs, metrics, traceable failures)
 - 🔒 Security (auth, least privilege, secure integrations)
 
-   
-  </tr>
-</table>
+ 
 
 <hr/>
 
