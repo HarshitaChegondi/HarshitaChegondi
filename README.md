@@ -15,10 +15,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Full Stack</b> · <b>Salesforce</b> · <b>Cloud & Data Engineering</b> · <b>AI Integrations</b> 🤖
-</p>
-
 <hr/>
 
 ## 👩‍💻 About Me
