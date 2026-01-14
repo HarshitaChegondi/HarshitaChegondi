@@ -16,7 +16,7 @@
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="100%" valign="top">
 
 ### 👩‍💻 About
 I build scalable products with clean UI, secure integrations, and reliable pipelines.  
