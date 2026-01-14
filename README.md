@@ -46,57 +46,51 @@ I focus on engineering that ships, stays stable, and is easy to maintain. ✅
 
 ## 🧰 Skills
 
+### 🧠 Languages
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="34" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="34" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
+</p>
+
 ### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react" height="34" alt="React" />
-  <img src="https://skillicons.dev/icons?i=ts" height="34" alt="TypeScript" />
-  <img src="https://skillicons.dev/icons?i=js" height="34" alt="JavaScript" />
-  <img src="https://skillicons.dev/icons?i=html" height="34" alt="HTML" />
-  <img src="https://skillicons.dev/icons?i=css" height="34" alt="CSS" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="34" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="34" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="34" alt="CSS3" />
 </p>
 
-### 🧱 Backend, APIs, Auth
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="Node.js" />
-  <img src="https://skillicons.dev/icons?i=java" height="34" alt="Java" />
-  <img src="https://skillicons.dev/icons?i=python" height="34" alt="Python" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth%202.0-111111?style=for-the-badge&logo=auth0&logoColor=white" />
-</p>
-
-### ☁️ Cloud, DevOps
-<p>
-  <img src="https://skillicons.dev/icons?i=aws" height="34" alt="AWS" />
-  <img src="https://skillicons.dev/icons?i=docker" height="34" alt="Docker" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="34" alt="Kubernetes" />
-  <img src="https://skillicons.dev/icons?i=githubactions" height="34" alt="GitHub Actions" />
-  <img src="https://skillicons.dev/icons?i=git" height="34" alt="Git" />
+### 🔌 Backend & APIs
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="34" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="34" alt="Spring" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" />
 </p>
 
 ### 🗄️ Data Engineering
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres" height="34" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=databricks&logoColor=white" />
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="34" alt="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" height="34" alt="Snowflake" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="34" alt="AWS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="34" alt="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="34" alt="Kubernetes" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="34" alt="GitHub Actions" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="34" alt="Terraform" />
 </p>
 
 ### ☁️ Salesforce
-<p>
-  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apex-111111?style=for-the-badge&logo=salesforce&logoColor=FF9900" />
-  <img src="https://img.shields.io/badge/LWC-111111?style=for-the-badge&logo=salesforce&logoColor=7FDBFF" />
-  <img src="https://img.shields.io/badge/Experience%20Cloud-111111?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
-</p>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" height="34" alt="Salesforce" />
+  <span>&nbsp;⚡ Apex &nbsp;•&nbsp; 🧩
 
-### 🤖 AI (Practical)
-<p>
-  <img src="https://img.shields.io/badge/LLM%20Integrations-111111?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Inference%20Endpoints-111111?style=for-the-badge&logo=mlflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Model%20Evaluation-111111?style=for-the-badge&logo=weightsandbiases&logoColor=white" />
-</p>
- <hr/>
 
 ## 📌 Featured Projects (clean and professional)
 
