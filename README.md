@@ -34,13 +34,13 @@ I focus on engineering that ships, stays stable, and is easy to maintain. ✅
 - 🔎 Observability (logs, metrics, traceable failures)
 - 🔒 Security (auth, least privilege, secure integrations)
 
-    </td>
-    <td width="38%" valign="top">
+   
+  </tr>
+</table>
 
+<hr/>
 
-
-
-## 🧰 Tech Toolbox
+## 🧰 Tech Toolbox (neat, grouped, and readable)
 
 <table>
   <tr>
