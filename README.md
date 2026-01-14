@@ -9,9 +9,6 @@
 </p>
 </h2>
 
-
-
-
 <p align="center">
   <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
