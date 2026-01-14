@@ -13,9 +13,6 @@
   <a href="mailto:harshitachegondi1@gmail.com">
     <img src="https://img.shields.io/badge/Email-harshitachegondi1%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="YOUR_RESUME_LINK">
-    <img src="https://img.shields.io/badge/Resume-View-7F00FF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume" />
-  </a>
 </p>
 
 <p align="center">
