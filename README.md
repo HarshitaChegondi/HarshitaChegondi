@@ -88,7 +88,3 @@ If you are hiring or want to collaborate, message me on LinkedIn or email me.
   <img src="https://capsule-render.vercel.app/api?type=rect&height=90&color=0:00D2FF,100:7F00FF&section=footer&text=Thanks%20for%20visiting!&fontColor=ffffff&fontSize=18" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/HarshitaChegondi/HarshitaChegondi/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
