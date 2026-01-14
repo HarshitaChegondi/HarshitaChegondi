@@ -42,71 +42,61 @@ I focus on engineering that ships, stays stable, and is easy to maintain. ✅
 
 <hr/>
 
-## 🧰 Tech Toolbox (neat, grouped, and readable)
 
-<table>
-  <tr>
-    <td valign="top" width="33%">
+
+## 🧰 Skills
 
 ### 🎨 Frontend
-- ⚛️ React  
-- 🟦 TypeScript  
-- 🟨 JavaScript  
-- 🧩 Component Design  
+<p>
+  <img src="https://skillicons.dev/icons?i=react" height="34" alt="React" />
+  <img src="https://skillicons.dev/icons?i=ts" height="34" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=js" height="34" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=html" height="34" alt="HTML" />
+  <img src="https://skillicons.dev/icons?i=css" height="34" alt="CSS" />
+</p>
 
-    </td>
-    <td valign="top" width="33%">
+### 🧱 Backend, APIs, Auth
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs" height="34" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=java" height="34" alt="Java" />
+  <img src="https://skillicons.dev/icons?i=python" height="34" alt="Python" />
+</p>
 
-### 🧱 Backend + APIs
-- 🌐 REST APIs  
-- 🔐 OAuth 2.0  
-- ☕ Java  
-- 🐍 Python  
+<p>
+  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth%202.0-111111?style=for-the-badge&logo=auth0&logoColor=white" />
+</p>
 
-    </td>
-    <td valign="top" width="33%">
+### ☁️ Cloud, DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=aws" height="34" alt="AWS" />
+  <img src="https://skillicons.dev/icons?i=docker" height="34" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=kubernetes" height="34" alt="Kubernetes" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="34" alt="GitHub Actions" />
+  <img src="https://skillicons.dev/icons?i=git" height="34" alt="Git" />
+</p>
 
-### ☁️ Cloud + Data
-- ☁️ AWS (S3, Lambda, Glue)  
-- 🧮 SQL (PostgreSQL)  
-- 📦 Pipelines + automation  
-
-    </td>
-  </tr>
-</table>
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
+### 🗄️ Data Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" height="34" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/SQL-111111?style=for-the-badge&logo=databricks&logoColor=white" />
+</p>
 
 ### ☁️ Salesforce
-- ⚡ LWC  
-- 🧠 Apex  
-- 🌍 Experience Cloud  
-- 🔁 Flows + Integrations  
+<p>
+  <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex-111111?style=for-the-badge&logo=salesforce&logoColor=FF9900" />
+  <img src="https://img.shields.io/badge/LWC-111111?style=for-the-badge&logo=salesforce&logoColor=7FDBFF" />
+  <img src="https://img.shields.io/badge/Experience%20Cloud-111111?style=for-the-badge&logo=salesforce&logoColor=00A1E0" />
+</p>
 
-    </td>
-    <td valign="top" width="33%">
-
-### 🚀 DevOps + Quality
-- 🧰 Git + GitHub  
-- 🔁 CI/CD (GitHub Actions)  
-- 🐳 Docker  
-- ☸️ Kubernetes  
-
-    </td>
-    <td valign="top" width="33%">
-
-### 🤖 AI (practical engineering)
-- 🧠 Inference endpoint integration  
-- 🧪 Evaluation mindset (quality + reliability)  
-- 🧾 Data prep for ML workflows  
-
-    </td>
-  </tr>
-</table>
-
-<hr/>
+### 🤖 AI (Practical)
+<p>
+  <img src="https://img.shields.io/badge/LLM%20Integrations-111111?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Inference%20Endpoints-111111?style=for-the-badge&logo=mlflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Model%20Evaluation-111111?style=for-the-badge&logo=weightsandbiases&logoColor=white" />
+</p>
+ <hr/>
 
 ## 📌 Featured Projects (clean and professional)
 
