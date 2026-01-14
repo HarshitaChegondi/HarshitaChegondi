@@ -1,4 +1,6 @@
 <!-- Header -->
+<img src="https://capsule-render.vercel.app/api?..."/>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+Salesforce+Developer+%7C+Cloud+%7C+Data+Engineering;React+%2B+TypeScript+%7C+APIs+%7C+CI%2FCD+%7C+AWS+Pipelines;Building+reliable+products+with+clean+UX+and+strong+engineering" />
 </p>
