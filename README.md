@@ -105,13 +105,13 @@ I focus on engineering that ships, stays stable, and is easy to maintain. ✅
 
 ## 📌 Featured Projects (clean and professional)
 
-| 🔹 Project | 🧩 What it shows | 🛠️ Tech |
-|---|---|---|
-| ♟️ Alpha Beta Pruning | Decision search optimization and pruning logic | Python |
-| 🧱 Matrix Multiplication using Hadoop | Distributed compute (MapReduce patterns) | Java, Hadoop |
-| 🧪 Naive Bayes Classifier | Explainable ML classification workflow | Python, Notebook |
-| 🎬 Sentiment Analysis (Movie Reviews) | NLP pipeline thinking and evaluation | Python, Notebook |
-| ⚡ Sorting Techniques | Core CS fundamentals with practical implementation | HTML, JS |
+| 🔹 Project | 🧩 What it shows |
+|---|---|
+| ♟️ Alpha Beta Pruning | Decision search optimization and pruning logic |
+| 🧱 Matrix Multiplication using Hadoop | Distributed compute (MapReduce patterns) |
+| 🧪 Naive Bayes Classifier | Explainable ML classification workflow |
+| 🎬 Sentiment Analysis (Movie Reviews) | NLP pipeline thinking and evaluation |
+| ⚡ Sorting Techniques | Core CS fundamentals with practical implementation |
 
 <hr/>
 
