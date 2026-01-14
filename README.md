@@ -43,61 +43,59 @@ I focus on engineering that ships, stays stable, and is easy to maintain. ✅
 
 ## 🧰 Skills
 
-### 🧠 Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="34" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="34" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="34" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" height="34" alt="TypeScript" />
-</p>
-
 ### 🎨 Frontend
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height="34" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" height="34" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" height="34" alt="CSS3" />
+  <img src="https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-111111?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-111111?style=flat-square&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-111111?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### 🔌 Backend & APIs
+### 🧱 Backend, APIs, Auth
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="34" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" height="34" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="34" alt="Spring" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="34" alt="FastAPI" />
-</p>
-
-### 🗄️ Data Engineering
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="34" alt="PostgreSQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" height="34" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" height="34" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/snowflake/snowflake-original.svg" height="34" alt="Snowflake" />
-</p>
-
-### ☁️ Cloud & DevOps
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original.svg" height="34" alt="AWS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" height="34" alt="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" height="34" alt="Kubernetes" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" height="34" alt="GitHub Actions" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" height="34" alt="Terraform" />
+  <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-111111?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-111111?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-111111?style=flat-square&logo=swagger&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth%202.0-111111?style=flat-square&logo=auth0&logoColor=white" />
 </p>
 
 ### ☁️ Salesforce
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" height="34" alt="Salesforce" />
-  <span>&nbsp;⚡ Apex &nbsp;•&nbsp; 🧩
+  <img src="https://img.shields.io/badge/Salesforce-111111?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex-111111?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/LWC-111111?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Experience%20Cloud-111111?style=flat-square&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flows-111111?style=flat-square&logo=salesforce&logoColor=white" />
+</p>
 
+### 🗄️ Data Engineering
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-111111?style=flat-square&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-111111?style=flat-square&logo=snowflake&logoColor=white" />
+</p>
 
-## 📌 Featured Projects (clean and professional)
+### ☁️ Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-111111?style=flat-square&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-111111?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-111111?style=flat-square&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-111111?style=flat-square&logo=terraform&logoColor=white" />
+</p>
 
-| 🔹 Project | 🧩 What it shows |
-|---|---|
-| ♟️ Alpha Beta Pruning | Decision search optimization and pruning logic |
-| 🧱 Matrix Multiplication using Hadoop | Distributed compute (MapReduce patterns) |
-| 🧪 Naive Bayes Classifier | Explainable ML classification workflow |
-| 🎬 Sentiment Analysis (Movie Reviews) | NLP pipeline thinking and evaluation |
-| ⚡ Sorting Techniques | Core CS fundamentals with practical implementation |
+### 🤖 AI / ML
+<p align="left">
+  <img src="https://img.shields.io/badge/LLM%20Integrations-111111?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-111111?style=flat-square&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-111111?style=flat-square&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=white" />
+</p>
 
 <hr/>
 
