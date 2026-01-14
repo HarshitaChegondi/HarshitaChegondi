@@ -1,5 +1,25 @@
 <!-- Header -->
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+Salesforce+Developer+%7C+Cloud+%7C+Data+Engineering;React+%2B+TypeScript+%7C+APIs+%7C+CI%2FCD+%7C+AWS+Pipelines;Building+reliable+products+with+clean+UX+and+strong+engineering" />
+</p>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=HarshitaChegondi&style=flat-square&color=7F00FF" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,nodejs,java,python,aws,docker,kubernetes,postgres,git,githubactions&perline=12" />
+</p>
+
+<hr/>
+
+
+
+
+
+<p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=230&text=Harshita%20Chegondi&fontAlign=50&fontAlignY=35&color=0:7F00FF,100:00D2FF&fontColor=ffffff&desc=Full%20Stack%20|%20Salesforce%20|%20Cloud%20|%20Data%20Engineering&descAlign=50&descAlignY=60" />
 </p>
 
