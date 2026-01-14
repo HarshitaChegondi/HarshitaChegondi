@@ -1,12 +1,15 @@
 <!-- ✅ Professional, unique, neatly aligned GitHub profile README -->
 
-<h2 align="center">Hi, I’m Harshita Chegondi 👋</h2>
+<h2 align="center">Hi, I’m Harshita Chegondi 👋
 
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer+%F0%9F%9A%80;Salesforce+Developer+%E2%98%81%EF%B8%8F;Cloud+%26+Data+Engineering+%F0%9F%93%8A;AI+Integrations+%F0%9F%A4%96;Building+clean+UI+%2B+secure+APIs+with+measurable+impact"
     alt="Typing SVG"/>
 </p>
+</h2>
+
+
 
 
 <p align="center">
