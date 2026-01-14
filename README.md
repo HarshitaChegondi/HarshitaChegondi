@@ -74,18 +74,6 @@
 
 ---
 
-## 📊 GitHub at a glance
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=HarshitaChegondi&show_icons=true&rank_icon=github&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshitaChegondi&layout=compact&hide_border=true" />
-</p>
-
-<p align="center">
-  <img height="175" src="https://streak-stats.demolab.com?user=HarshitaChegondi&hide_border=true" />
-</p>
-
----
-
 ## 🎯 What I am building next
 - 🔧 More polished READMEs with demos + screenshots for each pinned repo  
 - 🧪 Unit tests + CI checks for ML notebooks and Java projects  
