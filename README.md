@@ -3,16 +3,28 @@
 <h2 align="center">Hi, I’m Harshita Chegondi 👋</h2>
 
 <p align="center">
-  <b>Full Stack Engineer</b> · <b>Salesforce Developer</b> · <b>Cloud & Data Engineering</b> · <b>AI Integrations</b> 🤖
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=900&lines=Full+Stack+Engineer+%F0%9F%9A%80;Salesforce+Developer+%E2%98%81%EF%B8%8F;Cloud+%26+Data+Engineering+%F0%9F%93%8A;AI+Integrations+%F0%9F%A4%96;Building+clean+UI+%2B+secure+APIs+with+measurable+impact"
+    alt="Typing SVG"
+  />
 </p>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">🔗 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="mailto:YOUR_EMAIL">📧 Email</a> &nbsp;|&nbsp;
-  <a href="YOUR_RESUME_LINK">📄 Resume</a>
+  <b>Full Stack Engineer</b> · <b>Salesforce Developer</b> · <b>Cloud & Data Engineering</b> · <b>AI Integrations</b> 🤖
 </p>
 
-<hr/>
+
+<p align="center">
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-Reach%20Me-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/Resume-View-7F00FF?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+  </a>
+</p>
 
 
   
