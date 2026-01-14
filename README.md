@@ -37,22 +37,10 @@ I focus on engineering that ships, stays stable, and is easy to maintain. ✅
     </td>
     <td width="38%" valign="top">
 
-### 📊 GitHub Snapshot
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarshitaChegondi&show_icons=true&hide_border=true" alt="stats" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=HarshitaChegondi&hide_border=true" alt="streak" />
-</p>
 
-    </td>
-  </tr>
-</table>
 
-<hr/>
-
-## 🧰 Tech Toolbox (neat, grouped, and readable)
+## 🧰 Tech Toolbox
 
 <table>
   <tr>
