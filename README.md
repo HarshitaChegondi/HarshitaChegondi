@@ -15,7 +15,7 @@
 <hr/>
 
 
-    <td width="100%" valign="top">
+  
 
 ### 👩‍💻 About
 I build scalable products with clean UI, secure integrations, and reliable pipelines.  
