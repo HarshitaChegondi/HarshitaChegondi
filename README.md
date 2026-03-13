@@ -3,7 +3,7 @@
 <h2 align="center">Harshita Chegondi 👋</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=980&lines=Software+Engineer+%7C+5%2B+Years+Experience;Full+Stack+%7C+Salesforce+%7C+Cloud+%7C+Data+Engineering;AI+Integrations+%7C+Inference+Endpoints+%7C+Reliable+Pipelines;I+build+clean+UI+%2B+secure+APIs+with+measurable+impact" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=900&center=true&vCenter=true&width=980&lines=Software+Engineer+%7C+4+Years+Experience;Full+Stack+%7C+Salesforce+%7C+Cloud+%7C+Data+Engineering;AI+Integrations+%7C+Inference+Endpoints+%7C+Reliable+Pipelines;I+build+clean+UI+%2B+secure+APIs+with+measurable+impact" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 <hr/>
 
 ## 👩‍💻 About Me
-I am a **Software Engineer with 5+ years of experience** building scalable applications, secure integrations, and data platforms.  
+I am a **Software Engineer with 4 years of experience** building scalable applications, secure integrations, and data platforms.  
 My sweet spot is combining **product-ready UI**, **backend reliability**, **data engineering discipline**, and **AI-ready systems**.
 
 - 🧩 Frontend: React + TypeScript, reusable components, performance + UX
